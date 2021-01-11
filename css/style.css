@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(../body-bg.jpg);
+    background-repeat: repeat;
+    margin-top: 25px;
+}
+
+h1 {
+    font-weight: normal;
+    letter-spacing: .125rem;
+    text-transform: uppercase;
+    color: rgb(255, 213, 79);
+    font-size: 29px;
+}
+
+li {
+    display: inline-block;
+    font-size: 20px;
+    list-style-type: none;
+    padding: 1em;
+    text-transform: uppercase;
+    color: rgb(255, 213, 79);
+}
+
+li span {
+    display: block;
+    font-size: 58px;
+    color: rgb(255, 213, 79);
+}
+
+.message {
+    font-size: 4rem;
+}
+
+#content {
+    display: none;
+    padding: 1rem;
+}
+
+.emoji {
+    padding: 0 .25rem;
+}
+
+@media all and (max-width: 768px) {
+    h1 {
+        font-size: 29px;
+    }
+
+    li {
+        font-size: 20px;
+        padding: .75rem;
+    }
+
+    li span {
+        font-size: 58px;
+    }
+}
+
+.shuvo {
+    display: inline-block;
+    margin-right: auto;
+}
+
+.rizon {
+    display: inline-block;
+    margin-left: auto;
+}
+
+.jibon {
+    display: inline-block;
+}
+.shakil {
+    display: inline-block;
+    margin-right: auto;
+}
+
+.rahat {
+    display: inline-block;
+    margin-left: auto;
+}
+
+.rana {
+    display: inline-block;
+}
+.mamun {
+    display: inline-block;
+}
