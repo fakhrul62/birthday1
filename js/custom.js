@@ -37,7 +37,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-  let birthday = "Sep 15, 2021 00:00:00",
+  let birthday = "Sep 15, 2024 00:00:00",
       countDown = new Date(birthday).getTime(),
       x = setInterval(function() {    
 
@@ -70,7 +70,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-  let birthday = "Oct 22, 2021 00:00:00",
+  let birthday = "Oct 22, 2024 00:00:00",
       countDown = new Date(birthday).getTime(),
       x = setInterval(function() {    
 
@@ -103,7 +103,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-  let birthday = "Nov 18, 2021 00:00:00",
+  let birthday = "Nov 18, 2024 00:00:00",
       countDown = new Date(birthday).getTime(),
       x = setInterval(function() {    
 
@@ -136,7 +136,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-  let birthday = "Nov 30, 2021 00:00:00",
+  let birthday = "Nov 30, 2024 00:00:00",
       countDown = new Date(birthday).getTime(),
       x = setInterval(function() {    
 
@@ -169,7 +169,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-  let birthday = "Dec 24, 2021 00:00:00",
+  let birthday = "Dec 24, 2024 00:00:00",
       countDown = new Date(birthday).getTime(),
       x = setInterval(function() {    
 
@@ -202,7 +202,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-  let birthday = "Jan 3, 2022 00:00:00",
+  let birthday = "Jan 3, 2024 00:00:00",
       countDown = new Date(birthday).getTime(),
       x = setInterval(function() {    
 
